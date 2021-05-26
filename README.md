@@ -29,10 +29,4 @@ Our Blockchain based solution will offer:
   5)Ganache
   
 
-## Contributors:
-
-* [Atharva Kale](https://github.com/atharvakale31)
-* [Diksha Rajguru](https://github.com/diksharajguru)
-* [Muskan Agarwal](https://github.com/muskan-1234)
-* [Supriy Jinturkar](https://github.com/Supriy0498)
 
